@@ -17,16 +17,16 @@ Useful for **code cleanup**, **refactoring**, and **finding unused functions** i
 
 ## 🛠 Usage
 
-1. Save the script as `count_function_calls.sh`.
+1. Save the script as `function_counter.sh`.
 2. Make it executable:
 
    ```bash
-   chmod +x count_function_calls.sh
+   chmod +x function_counter.sh
    ```
 3. Run it:
 
    ```bash
-   ./count_function_calls.sh my_script.sh
+   ./function_counter.sh my_script.sh
 
      Function Name                       | Call Count
    --------------------------------------+-----------
